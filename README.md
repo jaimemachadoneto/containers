@@ -126,7 +126,6 @@ Container | Channel | Image
 [sonarr](https://github.com/jaimemachadoneto/pkgs/container/sonarr) | main | ghcr.io/jaimemachadoneto/sonarr
 [sonarr-develop](https://github.com/jaimemachadoneto/pkgs/container/sonarr-develop) | develop | ghcr.io/jaimemachadoneto/sonarr-develop
 [tautulli](https://github.com/jaimemachadoneto/pkgs/container/tautulli) | master | ghcr.io/jaimemachadoneto/tautulli
-[volsync](https://github.com/jaimemachadoneto/pkgs/container/volsync) | stable | ghcr.io/jaimemachadoneto/volsync
 
 
 ## Deprecations
