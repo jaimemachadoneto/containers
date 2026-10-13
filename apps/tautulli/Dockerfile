@@ -1,4 +1,4 @@
-FROM docker.io/library/python:3.14.6-alpine
+FROM docker.io/library/python:3.15.0-alpine
 
 ARG TARGETPLATFORM
 ARG VERSION
